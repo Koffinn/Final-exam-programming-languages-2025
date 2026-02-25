@@ -1,2 +1,2 @@
-# Ispitni-projekat-programski-jezici-2025
-Zavrsni projekat za predmet Programski Jezici na Univerzitetu Singidunum smera Racunarske Nauke 2025
+# Final exam programming languages 2025
+Final exam project for Programming Languages class at Singidunum University, Comp Sci major, under professor Petar Kresoja.
